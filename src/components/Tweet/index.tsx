@@ -44,8 +44,12 @@ const Tweet: React.FC = () => {
             <Status>
               <CommentIcon />
               20
+            </Status>
+            <Status>
               <RetweetIcon />
               20
+            </Status>  
+            <Status>
               <LikeIcon />
               150
             </Status>
