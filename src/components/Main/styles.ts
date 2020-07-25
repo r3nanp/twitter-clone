@@ -7,7 +7,7 @@ export const Container = styled.div`
 
   width: min(601px, 100%);
 
-  @media (min-width: 500px ){
+  @media (min-width: 500px){
     border-left: 1px solid var(--outline);
     border-right: 1px solid var(--outline);
   }
@@ -43,19 +43,20 @@ export const Header = styled.div`
 export const BackIcon = styled(ArrowLeft)`
   width: 24px;
   height: 24px;
-  right: 100%;
+
   fill: var(--twitter);
 `;
 
 export const ProfileInfo = styled.div`
   margin-left: 17px;
+
   display: flex;
   flex-direction: column;
 
-  > strong{
+  > strong {
     font-size: 19px;
   }
-  > span{
+  > span {
     font-size: 15px;
     color: var(--gray);
   }

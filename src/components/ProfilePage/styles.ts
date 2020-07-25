@@ -46,38 +46,36 @@ export const ProfileData = styled.div`
   flex-direction: column;
 
   position: relative;
-  
+
   >h1{
     font-weight: bold;
     font-size: 19px;
   }
-  >h2{
-   font-weight: normal;
-   font-size: 15px;
-   color: var(--gray);
 
-  > p {
-     font-size: 15px;
-     margin-top: 11px;
-   }
-  > ul {
-    list-style-type: none;
+  >h2{
+    font-weight: normal;
+    font-size: 15px;
+    color: var(--gray);
+  }
+  >p{
+    font-size: 15px;
+    margin-top: 11px;
+  }
+  >ul{
+    list-style: none;
     margin-top: 10px;
     margin-bottom: 10px;
-    
-    > li {
-      display: flex;
-      align-items: center;
+    >li{
       font-size: 15px;
       color: var(--gray);
 
       >svg{
         fill: var(--gray);
         margin-right: 5px;
-       }
-     }
-   } 
+      }
+    }
   }
+
 `;
 const IconCSS = css`
   width: 20px;
@@ -99,5 +97,20 @@ export const Followage = styled.div`
     & + span {
       margin-left: 20px;
     }
+  }
+`;
+
+export const EditButton = styled(Button)`
+  position: absolute;
+  top: 2vw;
+  right: 7px;
+
+  padding: 4px 16px;
+  font-size: 13px;
+
+  @media(min-width: 320px){
+    top: 10px;
+    padding: 10px 19px;
+    font-size: 15px;
   }
 `;

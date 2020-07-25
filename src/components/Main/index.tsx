@@ -18,16 +18,17 @@ const Main: React.FC = () => {
   return(
     <Container> 
       <Header>
-          <button>
-            <BackIcon />
-          </button>
+        <button>
+          <BackIcon />
+        </button>
           
-          <ProfileInfo>
-            <strong>renan pereira</strong>
-            <span>11,6K Tweets</span>
-          </ProfileInfo>
+        <ProfileInfo>
+          <strong>Renan</strong>
+          <span>11,6K Tweets</span>
+        </ProfileInfo>
       </Header>
-      <ProfilePage/>
+
+      <ProfilePage />
       <BottomMenu>
         <HomeIcon />
         <SearchIcon />
@@ -35,7 +36,7 @@ const Main: React.FC = () => {
         <EmailIcon />
       </BottomMenu>
     </Container>
-  )
+  );
 }
 
 export default Main;
