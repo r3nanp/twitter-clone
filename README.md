@@ -1,8 +1,9 @@
 ## twitter-clone
 Um clone do Twitter feito em ReactJS
 
-### How to run the app 
+### Como rodar o app 
 
 `npm start`
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+Roda o app em modo de desenvolvedor.<br />
+Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador.
