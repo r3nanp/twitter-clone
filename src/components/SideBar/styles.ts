@@ -70,6 +70,9 @@ export const Body = styled.div`
 
   margin-top: 3px;
 
+  position: sticky;
+  top: 0;
+
   >div + div {
     margin-top: 15px;
   }
