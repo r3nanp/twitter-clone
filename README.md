@@ -1,6 +1,9 @@
 ## twitter-clone
 Um clone do Twitter feito em ReactJS
 
+### Screenshot
+<img src="screenshot.png">
+
 ### Como rodar o app na sua máquina 
 
 `npm start`
