@@ -12,4 +12,4 @@ Roda o app em modo de desenvolvedor.<br />
 Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador.
 
 ### Link para ver:
-[https://](https://) 
+[https://r3nanp-twitter-clone.netlify.app/](Site) 
