@@ -1,13 +1,13 @@
 ## twitter-clone
-Um clone do Twitter feito em ReactJS. Projeto resultado de um UI Clone da [Rocketseat](https://youtu.be/K-8z_4xvT3o).
+ 🐦 A clone of Twitter made in ReactJS.
 
-## Bibliotecas utilizadas
+## Libraries used
 * styled-components
 * react-sticky-box
 * styled-icons
 
-### Link para ver o resultado:
-[https://r3nanp-twitter-clone.netlify.app/](https://r3nanp-twitter-clone.netlify.app/) 
+### Link:
+[Twitter Clone](https://r3nanp-twitter-clone.netlify.app/) 
 
 ### Screenshots
 <img src="./.github/screenshot.png">
