@@ -1,5 +1,6 @@
 ## twitter-clone
- 🐦 A clone of Twitter made in ReactJS.
+ 🐦 A clone of Twitter made in ReactJS. <br />
+ ![r3nanp](https://img.shields.io/badge/r3nanp-twitter--clone-blue)
 
 ## Libraries used
 * styled-components
