@@ -1,5 +1,8 @@
 ## twitter-clone
  🐦 A clone of Twitter made in ReactJS. <br />
+ 
+ ![license mit](https://img.shields.io/github/r3nanp/twitter-clone?color=blue&logo=github)
+ 
  ![r3nanp](https://img.shields.io/badge/r3nanp-twitter--clone-blue)
 
 ## Libraries used
